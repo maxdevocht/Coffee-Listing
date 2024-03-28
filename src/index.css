@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+:root {
+  --color-black: #111315;
+  --color-black-light: #1B1D1F;
+  --color-grey: #6F757C;
+  --color-white: #FEF7EE;
+  --color-red: #ED735D;
+  --color-yellow: #F6C768;
+  --color-green: #BEE3CC;
+
+  --font-size-heading: 2rem;
+  --font-size-body: 1rem;
+  --font-size-label: 0.875rem;
+  --font-size-price: 0.75rem;
+  --font-size-small: 0.625rem;
+}
